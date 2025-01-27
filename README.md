@@ -1,4 +1,4 @@
-<h1>Web Zafiyet Taraması</h1>
+<h1>Web Zafiyet Tarama Uygulaması</h1>
 
 
 Bu proje, web uygulamalarındaki güvenlik açıklarını tespit etmek amacıyla geliştirilmiş bir Python tabanlı araçtır. Kullanıcı, taramak istediği web sitesinin URL’sini girdikten sonra, program bu siteyi çeşitli güvenlik testlerine tabi tutar. Tespit edilen açıklar hakkında kullanıcıyı bilgilendirir ve her bir açığı nasıl düzeltebileceğine dair çözüm kaynakları sunar. Program, yaygın web uygulaması güvenlik açıklarını (SQL Injection, XSS, Directory Traversal, vb.) analiz ederek, kullanıcıların web uygulamalarını daha güvenli hale getirmelerine yardımcı olur.
